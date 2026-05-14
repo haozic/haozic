@@ -10,8 +10,6 @@
 - 🌱 正在学习：`React` / `Next.js` / `Node.js`
 - 💬 想聊的话题：Web 开发、开源项目、效率工具
 
----
-
 ### 🛠️ 技术栈与工具
 
 <p align="left">
@@ -25,16 +23,12 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
 <!-- 使用 stats.justsong.cn 服务，国内访问稳定 -->
 <div align="center">
   <img height="180em" src="https://stats.justsong.cn/api/github?username=haozic&theme=dark" alt="GitHub Stats" />
   <!-- 常用语言占比使用 gh-stats.com -->
   <img height="180em" src="https://gh-stats.com/api/top-langs?username=haozic&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-
----
 
 ### 🌐 联系 / 关注我
 
@@ -44,7 +38,6 @@
   <a href="mailto:haozic@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haozic&label=Profile%20Views&color=2D9CDB&style=flat" alt="profile views" />
