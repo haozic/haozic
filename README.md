@@ -69,7 +69,7 @@
 <p align="left">
   <a href="https://github.com/haozic" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- 下面链接可以替换为你的真实主页 / 推特 / 掘金等 -->
-  <a href="https://yourblog.com" target="_blank"><img src="https://img.shields.io/badge/个人博客-2D9CDB?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://zhouhao.cn" target="_blank"><img src="https://img.shields.io/badge/个人博客-2D9CDB?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="mailto:haozic@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
