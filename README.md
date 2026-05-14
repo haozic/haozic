@@ -9,8 +9,6 @@
 - 🔭 我目前正在维护 **[cooklikehoc-web](https://github.com/haozic/cooklikehoc-web)** 和 **[NotionNext](https://github.com/haozic/NotionNext)** 等项目
 - 🌱 正在学习：`React` / `Next.js` / `Node.js`
 - 💬 想聊的话题：Web 开发、开源项目、效率工具
-- 📫 怎么联系我：haozic@example.com （请改为你的邮箱）
-- ⚡ 有趣的事：用代码让生活更简单，偶尔也会写点自动化脚本
 
 ---
 
