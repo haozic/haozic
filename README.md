@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://svg.gited.xyz/api?text=Hi+there!+👋;I'm+Haozic;Developer+%26+OpenSource+Enthusiast&fontSize=28&fontFamily=Fira+Code&color=2D9CDB&center=true&repeat=false&duration=3000" alt="Typing SVG" width="435"/>
-</h1>
+<h1 align="center">Hi there! 👋 I'm Haozic</h1>
+<p align="center">
+  <b>Developer & OpenSource Enthusiast</b><br/>
+  热爱编程与开源技术
+</p>
 
 ### 👨‍💻 About Me
 
