@@ -28,7 +28,7 @@
 <!-- 使用 stats.justsong.cn 服务，国内访问稳定 -->
 <div align="center">
   <img height="180em" src="https://stats.justsong.cn/api/github?username=haozic&theme=dark" alt="GitHub Stats" />
-  <!-- 常用语言占比使用 gh-stats.com ->
+  <!-- 常用语言占比使用 gh-stats.com -->
   <img height="180em" src="https://gh-stats.com/api/top-langs?username=haozic&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
