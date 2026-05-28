@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 我目前正在维护 **[cooklikehoc-web](https://github.com/haozic/cooklikehoc-web)** 和 **[NotionNext](https://github.com/haozic/NotionNext)** 等项目
+- 🔭 我目前正在维护 **[cooklikehoc-web](https://github.com/haozic/cooklikehoc-web)** 和 **[FlashBurn](https://github.com/haozic/flashburn)** 等项目
 - 🌱 正在学习：`React` / `Next.js` / `Node.js`
 - 💬 想聊的话题：Web 开发、开源项目、效率工具
 
