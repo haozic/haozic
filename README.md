@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 我目前正在维护 **[cooklikehoc-web](https://github.com/haozic/cooklikehoc-web)** 和 **[FlashBurn](https://github.com/haozic/flashburn)** 等项目
+- 🔭 我目前正在维护 **[老乡鸡菜谱](https://github.com/haozic/cooklikehoc-web)** 和 **[党刊阅读](https://github.com/haozic/paper)** 等项目
 - 🌱 正在学习：`React` / `Next.js` / `Node.js`
 - 💬 想聊的话题：Web 开发、开源项目、效率工具
 
@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://github.com/haozic" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://yourblog.com" target="_blank"><img src="https://img.shields.io/badge/个人博客-2D9CDB?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="mailto:haozic@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:skyenr@qq.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
